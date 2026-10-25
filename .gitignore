@@ -1,0 +1,21 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Dependencias y compilados
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+
+# Entornos y secretos
+.env
+.env.*
+venv/
+.venv/
